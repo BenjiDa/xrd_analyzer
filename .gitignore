@@ -1,4 +1,4 @@
 *.ipynb_checkpoints/
-*.html
+XRD_Analyzer_GC19.html
 .DS_Store
 *.pyc
