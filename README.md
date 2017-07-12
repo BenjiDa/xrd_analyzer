@@ -6,3 +6,4 @@ This tool uses interactive bokeh plots to help the viewer study XRD peaks in det
 
 Future work could involve adding plots of common minerals for comparison.
 
+![](http://g.recordit.co/htIhHdfdAy.gif)
